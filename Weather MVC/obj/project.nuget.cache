@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eFo866t6JuAGvcJU3SViuipgFERmD00ZnjO6qUvYLKK/StO+wL4fFVeZ9b5WSGSOpfJWuPz6s5dQTFgpnsb8vw==",
+  "success": true,
+  "projectFilePath": "D:\\BT Akademi\\Weather App MVC\\Weather MVC\\Weather MVC\\Weather MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bora\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Bora\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Bora\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
